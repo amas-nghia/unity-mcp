@@ -54,12 +54,12 @@ In Unity: `Window > Package Manager > + > Add package from git URL...`
 
 > [!TIP]
 > ```text
-> https://github.com/CoplayDev/unity-mcp.git?path=/MCPForUnity#main
+> https://github.com/amas-nghia/unity-mcp.git?path=/MCPForUnity#main
 > ```
 
 **Want the latest beta?** Use the beta branch:
 ```text
-https://github.com/CoplayDev/unity-mcp.git?path=/MCPForUnity#beta
+https://github.com/amas-nghia/unity-mcp.git?path=/MCPForUnity#beta
 ```
 
 <details>
